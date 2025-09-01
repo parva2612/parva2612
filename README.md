@@ -29,12 +29,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
   <img width="12" />
-  <img src="assets/Metatrader5.png" height="40" alt="metatrader logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="c++ logo"  />
+  <img width="12" />
+  <img src="assets/Metatrader5.png" height="40" alt="metatrader logo"  />
+  <img width="12" />
+  <img src="assets/Tradingview.png" height="40" alt="metatrader logo"  />
   </div>
+  
+  
 
 <h2 align="left">Projects</h2>
 
