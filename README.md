@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is [Your Name], and I'm a quantitative researcher & trading systems developer based in Dubai, UAE.</p>
+<p align="left">My name is Parva, and I'm a data analyst & trading systems developer based in Dubai, UAE.</p>
 
 <h2 align="left">About Me</h2>
 
@@ -47,6 +47,6 @@
 <h2 align="left">Contact Me</h2>
 
 <p align="left">
-<a href="https://linkedin.com/in/your-link">LinkedIn</a> | 
-<a href="mailto:your.email@example.com">Email</a>
+<a href="https://www.linkedin.com/in/parva-bhavsar/">LinkedIn</a> | 
+<a href="parva.creats@gmail.com">Email</a>
 </p>
